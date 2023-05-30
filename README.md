@@ -10,8 +10,6 @@ Any image may have its backdrop removed using this Chrome extension by simply pu
 7. Select the folder where you extracted the extension files.
 8. The Extract Text from Image extension will now be installed and ready to use.
 
-## Preview
-<img src="ayush.png">
 <hr>
 <p align="center"> Made with ❤️ by Ayush Jain </p>
 
